@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b1da657-5d2a-4687-80a6-b30d545f8576" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_01/assets/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_01/assets/images/ambulance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_01/assets/images/book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_01/assets/images/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_01/assets/images/menu_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_01/assets/images/phone-book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_02/assets/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_02/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_03/assets/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_03/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_04/assets/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_04/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_05/assets/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_05/assets/images/slide1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_05/assets/images/slide2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_05/assets/images/slide3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_05/assets/images/slide4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_05/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_06/assets/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_06/assets/images/car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_06/assets/images/city.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_06/assets/images/road.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_06/assets/images/sky.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_06/assets/images/wheel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case_06/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2UVccc8jDyOye4hGC7e1HC0AiEl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Module/Internet Technologies/Assignment-04/Case_06/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Module\Internet Technologies\Assignment-04\Case_06\images" />
+      <recent name="E:\Module\Internet Technologies\Assignment-04\Case_06\assets" />
+      <recent name="E:\Module\Internet Technologies\Assignment-04\Case_05\assets\images" />
+      <recent name="E:\Module\Internet Technologies\Assignment-04\Case_05" />
+      <recent name="E:\Module\Internet Technologies\Assignment-04\Case_04" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Module\Internet Technologies\Assignment-04\Case_06\assets" />
+      <recent name="E:\Module\Internet Technologies\Assignment-04\Case_01\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Assignment-04/Case_02/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b1da657-5d2a-4687-80a6-b30d545f8576" name="Changes" comment="" />
+      <created>1693028269903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693028269903</updated>
+      <workItem from="1693028270899" duration="14347000" />
+      <workItem from="1693154374572" duration="1066000" />
+      <workItem from="1693293897828" duration="1259000" />
+      <workItem from="1693374940818" duration="3019000" />
+      <workItem from="1693404863577" duration="100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
